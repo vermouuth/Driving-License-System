@@ -1,0 +1,19 @@
+# Build results
+bin/
+obj/
+.vs/
+
+# User-specific files
+*.user
+*.suo
+
+# Logs
+*.log
+
+# Compiled files
+*.exe
+*.dll
+*.json
+
+# IDE settings
+.vscode/
